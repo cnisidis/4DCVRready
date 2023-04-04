@@ -76,4 +76,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Remove Content and access by Symlink
-Content/*
+Content/_GEOMETRIES
