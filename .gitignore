@@ -77,3 +77,8 @@ DerivedDataCache/*
 
 #Remove Content and access by Symlink
 Content/_GEOMETRIES
+Content/Collections/*
+Content/Developers/*
+Content/Geometry/*
+Content/VirtualReality/*
+Content/VirtualRealityBP/*
